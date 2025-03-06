@@ -31,9 +31,11 @@
    git clone https://github.com/ваш-username/system-info-mvc.git
 
 Перейдите в папку проекта:
+```bash
 cd system-info-mvc
 
 Установите зависимости:
+```bash
 pip install wmi openpyxl
 
 ## Использование
