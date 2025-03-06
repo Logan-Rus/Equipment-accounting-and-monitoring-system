@@ -28,7 +28,7 @@
 1. Убедитесь, что у вас установлен Python 3.x.
 2. Клонируйте репозиторий:
     ```bash
-   git clone https://github.com/ваш-username/system-info-mvc.git
+   git clone https://github.com/Logan-Rus/system-info-mvc.git
 
 3. Перейдите в папку проекта:
     ```bash
