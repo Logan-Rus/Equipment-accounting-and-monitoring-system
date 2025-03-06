@@ -68,20 +68,6 @@ git push origin feature/новая-функция
 ## Автор
 Logan-Rus
 
-Как добавить README.md в репозиторий:
-
-1. Создайте файл `README.md` в корневой папке вашего проекта.
-2. Вставьте в него содержимое, приведенное выше.
-3. Добавьте файл в Git:
-
-   git add README.md
-
-Зафиксируйте изменения:
-git commit -m "Добавлен README.md"
-
-Загрузите изменения на GitHub:
-git push origin main
-
 
 
 
