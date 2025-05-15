@@ -1,5 +1,5 @@
 import tkinter as tk
-from controller import SystemInfoController
+from Controller import SystemInfoController
 
 if __name__ == "__main__":
     root = tk.Tk()
