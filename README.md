@@ -32,7 +32,7 @@
 
 3. Перейдите в папку проекта:
     ```bash
-    cd system-info-mvc
+    cd Equipment-accounting-and-monitoring-system
 
 4. Установите зависимости:
     ```bash
