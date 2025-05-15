@@ -36,7 +36,7 @@
 
 4. Установите зависимости:
     ```bash
-    pip install wmi openpyxl
+    pip install -r requirements.txt
 
 ## Использование
 1. Запустите приложение:
